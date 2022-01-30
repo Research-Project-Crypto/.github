@@ -1,12 +1,3 @@
-# Research Project
+# Special Organisational Repo
 
-## Contributors
-
- - Andreas Maerten [Github](https://github.com/Yimura)
- - Joren vanGoethem [Github](https://github.com/Joren-vanGoethem)
-
-## Important Repositories
-
- - [Data Preprocessor](https://github.com/Research-Project-Crypto/DataPreprocessor)
- - [Model Testing](https://github.com/Research-Project-Crypto/ModelTesting)
- - [Ticker Timscale Swap](https://github.com/Research-Project-Crypto/TickerTimescaleSwap)
+You can set defaults here that are used accross newly created repositories in this repo.

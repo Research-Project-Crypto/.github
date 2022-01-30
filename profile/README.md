@@ -10,4 +10,4 @@
  - [Data Collector](https://github.com/Research-Project-Crypto/DataCollector)
  - [Data Preprocessor](https://github.com/Research-Project-Crypto/DataPreprocessor)
  - [Model Testing](https://github.com/Research-Project-Crypto/ModelTesting)
- - [Ticker Timscale Swap](https://github.com/Research-Project-Crypto/TickerTimescaleSwap)
+ - [Ticker Timescale Swap](https://github.com/Research-Project-Crypto/TickerTimescaleSwap)
